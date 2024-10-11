@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  PACKAGE_NAME: sections
+  PACKAGE_NAME: csv-expander
 jobs:
   build-binaries:
     defaults:
