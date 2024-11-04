@@ -24,7 +24,7 @@ typer = {extras = ["all"], version = "^0.12.5"}
 pytest = "^8.3.3"
 pylint = "^3.3.1"
 mypy = "^1.11.2"
-ruff = "^0.6.9"
+ruff = "^0.7.2"
 taskipy = "^1.13.0"
 pyinstaller = "^6.10.0"
 
