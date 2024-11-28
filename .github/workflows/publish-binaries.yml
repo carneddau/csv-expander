@@ -66,7 +66,7 @@ jobs:
 
       - name: Cache Dasel
         id: cache-dasel
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: /usr/local/bin/dasel
           key: ${{ runner.os }}-dasel
